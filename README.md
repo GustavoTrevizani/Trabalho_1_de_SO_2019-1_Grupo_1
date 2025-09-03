@@ -8,7 +8,7 @@ O trabalho foi desenvolvido para a disciplina de **Sistemas Operacionais (GER383
 - Gustavo Trevizani  
 - Natália Barili Drecksler
 
-## 🖥3. Descrição do Projeto
+## 3. Descrição do Projeto
 O simulador representa o funcionamento de um escalonador de processos em um sistema operacional, onde múltiplos processos competem pela CPU.  
 O algoritmo utilizado é o **Round Robin com Feedback**, que organiza os processos em filas de diferentes prioridades e gerencia operações de entrada/saída (I/O).
 
