@@ -1,4 +1,4 @@
-# Trabalho 1 - Sistemas Operacionais (2019/1)
+# Trabalho 1 - Sistemas Operacionais
 
 ## 🎯 Objetivo
 Este projeto tem como objetivo implementar um **simulador de escalonamento de processos** utilizando o algoritmo **Round Robin com Feedback**.  
