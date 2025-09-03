@@ -37,8 +37,3 @@ O algoritmo utilizado é o **Round Robin com Feedback**, que organiza os process
    - Consumir toda a fatia de tempo (sendo movido para a fila de menor prioridade).  
 3. Processos que precisam de I/O são enviados para a **fila de I/O** correspondente e retornam depois ao escalonador.  
 4. A CPU sempre dá preferência à fila de maior prioridade.  
-
-
-Executando processo 5 com tempo restante 2  
-Processo 5 finalizado.  
-Todos os processos foram finalizados.  
